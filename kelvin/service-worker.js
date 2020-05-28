@@ -1,4 +1,4 @@
-importScripts("/static/precache-manifest.d47bdf68edca3418ca10658f3b0278b1.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
+importScripts("/statics/kelvin/precache-manifest.c926a5facd2524019343f1adcdcb6db6.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 // eslint-disable-next-line
 if (workbox) {
